@@ -1,0 +1,23 @@
+{
+"profil": {
+"nom": "Camille Durand",
+"titre": "Manager en ingénierie informatique — Smart & Green Building",
+"accroche": "Je relie le numérique et le bâtiment…",
+"github": "https://github.com/camille-durand",
+"disponibilite": "Alternance M2 SGB — ESIEE-IT, 2025-2027"
+},
+"projets": [
+{
+"slug": "capteurs-co2",
+"titre": "Capteurs CO₂ & confort",
+"resume": "Réseau LoRaWAN : CO₂, température, humidité, 12 salles.",
+"tags": ["IoT", "Data"],
+"annee": 2026,
+"technos": ["LoRaWAN", "MQTT", "Python"]
+}
+],
+"competences": [
+{ "groupe": "Smart Building",
+"items": [{ "nom": "GTB / BMS", "niveau": 3 }] }
+]
+}
